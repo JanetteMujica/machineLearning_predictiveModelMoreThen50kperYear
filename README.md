@@ -25,4 +25,5 @@ Project/
 ## Results
 ## Conclusion
 ## Copyright and license
+Code released under the <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">Creative Commons Universal License</a>.
 
