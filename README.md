@@ -13,7 +13,6 @@ This work was carried out as part of the **Introduction to Artificial Intelligen
 
 ## What's included
 ```text
-
 Project/
     └── MainData.csv
     └── Score.csv
