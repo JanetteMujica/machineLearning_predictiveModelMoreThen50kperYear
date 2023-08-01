@@ -3,6 +3,7 @@ This work was carried out as part of the **Introduction to Artificial Intelligen
 
 ## Table of contents
 
+- [What's included](#whats-included)
 - [Project](#project)
 - [Methodology](#methodology)
 - [Analysis](#analysis)
@@ -19,5 +20,10 @@ Project/
     └── Code.ipynb
     └── EnonceDuProjet_Math30636_2023
 ```
-
+## Project
+## Methodology
+## Analysis
+## Results
+## Conclusion
+## Copyright and license
 
