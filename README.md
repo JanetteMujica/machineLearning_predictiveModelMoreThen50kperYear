@@ -23,6 +23,9 @@ Project/
 The goal of the project was to predict whether an individual's income is higher than 50K or not. We used explanatory variables in "MainData" and the binary target variable "Income". **Source:** <a href="http://www.cs.toronto.edu/~delve/data/adult/desc.html" target="_blank">UCI Repository</a>
 
 ## Methodology
+
+![methodology](https://github.com/JanetteMujica/machineLearning_predictiveModelMoreThen50kperYear/assets/112497575/ccaea92e-163a-475f-896b-840d3ff9ee8e)
+
 ## Analysis
 ## Results
 ## Conclusion
