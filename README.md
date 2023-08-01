@@ -20,6 +20,8 @@ Project/
     └── EnonceDuProjet_Math30636_2023
 ```
 ## Project
+The goal of the project was to predict whether an individual's income is higher than 50K or not. We used explanatory variables in "MainData" and the binary target variable "Income". **Source:** <a href="[https://creativecommons.org/publicdomain/zero/1.0/](http://www.cs.toronto.edu/~delve/data/adult/desc.html)" target="_blank">UCI Repository</a>
+
 ## Methodology
 ## Analysis
 ## Results
