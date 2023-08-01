@@ -24,7 +24,7 @@ The goal of the project was to predict whether an individual's income is higher 
 
 ## Methodology
 
-![methodology](https://github.com/JanetteMujica/machineLearning_predictiveModelMoreThen50kperYear/assets/112497575/ccaea92e-163a-475f-896b-840d3ff9ee8e)
+![methodology](https://github.com/JanetteMujica/machineLearning_predictiveModelMoreThen50kperYear/assets/112497575/0f4d913b-664d-47c7-a34a-83d3c3bdbea1)
 
 ## Analysis
 ## Results
