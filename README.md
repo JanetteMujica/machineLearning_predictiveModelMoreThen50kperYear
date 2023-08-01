@@ -1,5 +1,5 @@
 # Predict whether an individual's income is higher than 50K or not.
-This work was carried out as part of the **Introduction to Artificial Intelligence** course (Math 30636) taught by Mina Arzagui at HEC Montréal in summer 2023.
+This projectHEC  was carried out as part of the **Introduction to Artificial Intelligence** course (Math 30636) taught by Mina Arzagui at HEC Montréal in summer 2023.
 
 ## Table of contents
 
